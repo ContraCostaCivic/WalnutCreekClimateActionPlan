@@ -3,7 +3,7 @@
 ## Objective
 Help Walnut Creek’s Climate Action Plan by isolating and analyzing relevant data about Walnut creek from California Distributed Generation Statistics, which houses information for all solar projects connected to the grid.
 
-# Resources
+## Resources
 https://www.californiadgstats.ca.gov/downloads/ has several datasets available for download
 
 What to look at:
