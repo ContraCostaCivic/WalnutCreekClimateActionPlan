@@ -20,6 +20,6 @@ What to look at:
     
     e.	In tracking just kW and our permit counts, we hit a high in 2015, and it has been decreasing since then. 2017 was low. We’re interested to know more and see if other things changed at the same time that might give more context. There were some policy factors at the state/federal level impacting the solar industry that we might have felt locally. But maybe it was just one neighborhood or one customer sector that got hit.
 
-2.	Find the City’s Climate Action Plan (written in 2012, and updated in 2016 – both links here) on this page: http://walnut-creek.org/departments/going-green-together/climate-change 
+2.	Find the City’s Climate Action Plan (written in 2012, and updated in 2016 – both links here) on this page: http://walnut-creek.org/departments/going-green-together/climate-change and with the 2016 progress report here: http://walnut-creek.org/home/showdocument?id=12701
 
 3.	Right now we only display this data statically through presentations and charts like those on the above webpage. Interested attendees could figure out a more real-time way to display this data and our progress to the community.
